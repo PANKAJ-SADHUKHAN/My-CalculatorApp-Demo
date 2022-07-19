@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">E_cal</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+</resources>
